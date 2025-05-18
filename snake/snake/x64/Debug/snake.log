@@ -1,0 +1,8 @@
+﻿  snake.cpp
+C:\Users\user\Desktop\STEP\cpp\snake\snake.h(93,21): warning C4311: 'type cast': pointer truncation from 'char *' to 'int'
+  (compiling source file 'snake.cpp')
+  
+C:\Users\user\Desktop\STEP\cpp\snake\snake.h(93,21): warning C4302: 'type cast': truncation from 'char *' to 'int'
+  (compiling source file 'snake.cpp')
+  
+  snake.vcxproj -> C:\Users\user\Desktop\STEP\cpp\snake\x64\Debug\snake.exe
